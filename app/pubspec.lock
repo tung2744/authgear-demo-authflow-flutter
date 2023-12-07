@@ -74,9 +74,9 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "9bf4291e25c7b3e9dd0e10e3b2689fdbc1294e05"
-      resolved-ref: "9bf4291e25c7b3e9dd0e10e3b2689fdbc1294e05"
-      url: "https://github.com/tung2744/authgear-sdk-flutter.git"
+      ref: "1d8f873d4f0932bb01dac441e87749f58de95208"
+      resolved-ref: "1d8f873d4f0932bb01dac441e87749f58de95208"
+      url: "https://github.com/authgear/authgear-sdk-flutter.git"
     source: git
     version: "1.1.0"
   flutter_lints:
